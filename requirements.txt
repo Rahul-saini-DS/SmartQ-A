@@ -1,0 +1,15 @@
+langchain
+langchain-ollama
+streamlit
+langchain_experimental
+torch
+transformers
+sentence-transformers 
+langchain
+langchain_community
+langchain-huggingface
+langchain_experimental
+langchain_chroma
+langchainhub
+
+

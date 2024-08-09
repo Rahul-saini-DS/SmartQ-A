@@ -8,7 +8,7 @@ SmartQ&A is a Q&A application that integrates Retrieval-Augmented Generation (RA
 
 - **Accurate Answers:** Utilizes RAG for retrieval-augmented generation to provide contextually relevant responses.
 - **Advanced Integration:** Combines LangChain, Hugging Face transformers, and open-source LLMs for enhanced natural language understanding.
-- **Efficient Processing:** Handles data from over 100 web sources with improved response accuracy and reduced latency.
+- **Efficient Processing:** Handles data from web sources with improved response accuracy and reduced latency.
 
 ## Environment Setup
 
@@ -36,25 +36,8 @@ To set up the project environment, follow these steps:
       pip install -r requirements.txt
       ```
 
-## Usage
 
-1. **Run the Application:**
-    - Execute the main script to start the Q&A application:
-      ```bash
-      python main.py
-      ```
-
-2. **Accessing the Q&A Service:**
-    - Interact with the application via the provided interface to get answers based on data extracted from URLs.
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or raise an issue if you have any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact [rahulsaini210901@gmail.com](mailto:rahulsaini210901@gmail.com).
